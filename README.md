@@ -1,9 +1,7 @@
 # 🔐 Conectados Pero Vulnerables
 
-<p align="center">
-  <img src="./imagen1.jpeg" width="700"/>
-</p>
 
+!(./images/imagen2.png)
 ---
 
 ## 📌 Descripción
