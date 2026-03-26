@@ -1,7 +1,7 @@
 # 🔐 Conectados Pero Vulnerables
 
 
-![Imagen](./CARPETA/imagen2.jpg)
+![Imagen](./FOLDER/imagen2.jpg)
 
 ---
 
