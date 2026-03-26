@@ -1,9 +1,6 @@
 # Conectados-Pero-Vulnerables
 generar conciencia y evidenciar que, hoy en día, tanto las personas como las empresas están expuestas constantemente al vishing, pishing y robo de identidad que son los tipos de fraudes, mas populares en Colombia. 
 
-## 🛡️ Imagen ilustrativa
-
-![Ciberseguridad](./imagen1.jpeg)
 
 ## 📖 Referencia
 
