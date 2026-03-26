@@ -1,7 +1,7 @@
 # 🔐 Conectados Pero Vulnerables
 
 <p align="center">
-  <img src="./images/banner-ciberseguridad.png" width="700"/>
+  <img src="./imagen1.jpeg" width="700"/>
 </p>
 
 ---
