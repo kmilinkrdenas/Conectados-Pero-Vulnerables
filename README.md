@@ -1,7 +1,7 @@
 # 🔐 Conectados Pero Vulnerables
 
 
-!(./images/imagen2.png)
+![](./carpeta/imagen2.png)
 ---
 
 ## 📌 Descripción
